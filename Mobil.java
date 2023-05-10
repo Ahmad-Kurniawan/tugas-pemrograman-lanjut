@@ -19,9 +19,6 @@ class Mobil {
         return a;
     }
 
-    void setHarga(String harga){
-        System.out.println("Harga Mobil \t: "+harga);
-    }
 }
 
 
